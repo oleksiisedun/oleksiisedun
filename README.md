@@ -8,8 +8,8 @@ I am an AQA Engineer based in **Ukraine** with over a decade of experience in th
 - 💼 **Experience:**
   - Formerly at **Techery** (Web apps automation).
   - 10+ years at **Software MacKiev**, delivering iOS/macOS products with a focus on accessibility.
-- 🌱 **Focus:** Building robust test automation frameworks using **Playwright** and **TypeScript**.
-- 👯 **Open to:** Discussing test architecture, JS/TS best practices, and educational initiatives.
+- ⚡ **Scripting:** Automating data workflows using **Google Apps Script** and **Google Sheets**.
+- 🐧 **OS:** A huge fan and daily driver of **Linux Mint**.
 
 ---
 
@@ -22,8 +22,10 @@ I am an AQA Engineer based in **Ukraine** with over a decade of experience in th
 **Testing & Automation**
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
 
 **Tools & Environment**
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

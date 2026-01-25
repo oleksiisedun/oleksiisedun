@@ -1,7 +1,6 @@
 # Hi there! I'm Oleksii Sedun
 
-### 👨‍💻 Senior Automation QA Engineer
-### ⚔️ Senior Lieutenant
+### 👨‍💻 Senior Automation QA Engineer ⚔️ Senior Lieutenant
 I am an AQA Engineer based in **Ukraine** with over a decade of experience in the software industry. Currently, I focus on military service and automating complex testing ecosystems for the sports betting industry.
 
 - 🔭 **Current Role:** Senior Automation QA Engineer at **FIRST - Best in Sports**.

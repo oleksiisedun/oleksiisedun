@@ -1,4 +1,11 @@
-# Hi there! I'm Oleksii Sedun
+# Oleksii Sedun
 
-### 👨‍💻 Senior Automation QA Engineer ⚔️ Senior Lieutenant
-I am an AQA Engineer based in **Ukraine** with over a decade of experience in the software industry. Currently, I focus on military service and automating complex solutions for the sports betting industry.
+**Senior Automation QA Engineer** · Ukraine 🇺🇦  
+Currently serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukraine ⚔️
+
+---
+
+14 years building quality into software — a decade with iOS & macOS, now focused on web.  
+Playwright · TypeScript · JavaScript · CI/CD · Anthropic Claude
+
+Side projects lean toward tools that actually matter — Ukrainian military rank declension, personnel databases, document automation.

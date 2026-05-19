@@ -1,7 +1,7 @@
 # Oleksii Sedun
 
 **Senior Automation QA Engineer** · Ukraine 🇺🇦  
-Currently serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukraine ⚔️
+Currently serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukraine
 
 ---
 

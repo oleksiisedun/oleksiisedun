@@ -5,8 +5,8 @@ Currently serving in the **13th Operational Brigade "Khartiia"**, National Guard
 
 ---
 
-14 years building quality into software — a decade with iOS & macOS, now focused on web.  
-Playwright · TypeScript · JavaScript · CI/CD · Anthropic Claude
+14 years building quality into software — a decade with iOS & macOS, now focused on web automation.
+Playwright · TypeScript · JavaScript · Regex · CI/CD · Anthropic Claude
 
 Side projects lean toward tools that actually matter — Ukrainian military rank declension, personnel databases, document automation.
 

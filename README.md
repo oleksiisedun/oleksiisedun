@@ -12,11 +12,13 @@ Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukrain
 **How I work with AI**
 
 - Search for existing code before writing new. Second copy gets extracted, but a clear duplicate beats a confusing abstraction.
-- The agent runs linters, type checks and builds itself. A failure is a non-zero exit code, not a warning.
-- A mistake corrected twice becomes a lint rule, not a note in the prompt.
-- One file, one responsibility.
+- The agent runs linters, type checks, builds and unit tests itself. A failure is a non-zero exit code, not a warning.
+- Missing guardrails get suggested, never installed unprompted. A mistake corrected twice becomes a lint rule, not a note in the prompt.
+- One file, one responsibility. Length alone isn't a reason to split.
 - Design decisions live in short ADRs, so they aren't argued again every session.
-- The agent never commits, pushes or deploys without my explicit command, and never reads outside the project.
+- Conventions load on demand: language and topic docs are read when relevant, so context stays small.
+- README and CLAUDE.md are updated with the code, not after it.
+- The agent never commits, pushes or deploys without my explicit command, splits work into logical commits, and never reads outside the project.
 
 ---
 

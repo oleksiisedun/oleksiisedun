@@ -18,8 +18,6 @@ Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukrain
 - Design decisions live in short ADRs, so they aren't argued again every session.
 - The agent never commits, pushes or deploys without my explicit command, and never reads outside the project.
 
-Personal projects that actually matter — a [production-grade test suite](https://github.com/oleksiisedun/test-suite-showcase), [Sheets-based personnel accounting](https://github.com/oleksiisedun/personnel-database), [PDF tools](https://github.com/oleksiisedun/pdf-tools), [hardware projects](https://github.com/oleksiisedun/rpi-dashboard).
-
 ---
 
 M.S. in Electronic Digital Equipment Design · Kyiv Polytechnic Institute

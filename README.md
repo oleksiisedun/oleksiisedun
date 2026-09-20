@@ -1,16 +1,25 @@
 # Oleksii Sedun
 
 **Senior Automation QA Engineer** · FIRST - Best in Sports  
-Currently serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukraine
+Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukraine
 
 ---
 
-14 years building quality into software — a decade with iOS & macOS, now focused on web automation.  
-Playwright · Node.js · TypeScript · JavaScript · RegEx · Apps Script · Anthropic Claude · Linux · CI/CD
+14 years building quality into software — a decade with iOS & macOS, then web automation, and now **[AI-assisted development](https://github.com/oleksiisedun/claude)**.
 
-Personal projects that actually matter — production-ready test suite boilerplate, sheets-based solutions for military personnel accounting, pdf tools, hardware projects.
+**Stack** · Playwright · TypeScript · Node.js · Apps Script · Linux · CI/CD · Claude Code
+
+**How I work with AI**
+
+- Search for existing code before writing new. Second copy gets extracted, but a clear duplicate beats a confusing abstraction.
+- One command runs lint, types and build. It fails with a non-zero exit code, not a warning.
+- A mistake corrected twice becomes a lint rule, not a note in the prompt.
+- One file, one responsibility.
+- Design decisions live in short ADRs, so they aren't argued again every session.
+- The agent never commits, pushes or deploys without my explicit command, and never reads outside the project.
+
+Personal projects that actually matter — a [production-grade test suite](https://github.com/oleksiisedun/test-suite-showcase), [Sheets-based personnel accounting](https://github.com/oleksiisedun/personnel-database), [PDF tools](https://github.com/oleksiisedun/pdf-tools), [hardware projects](https://github.com/oleksiisedun/rpi-dashboard).
 
 ---
 
-**Education**  
 M.S. in Electronic Digital Equipment Design · Kyiv Polytechnic Institute

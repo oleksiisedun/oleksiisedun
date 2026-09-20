@@ -12,7 +12,7 @@ Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukrain
 **How I work with AI**
 
 - Search for existing code before writing new. Second copy gets extracted, but a clear duplicate beats a confusing abstraction.
-- One command runs lint, types and build. It fails with a non-zero exit code, not a warning.
+- The agent runs linters, type checks and builds itself. A failure is a non-zero exit code, not a warning.
 - A mistake corrected twice becomes a lint rule, not a note in the prompt.
 - One file, one responsibility.
 - Design decisions live in short ADRs, so they aren't argued again every session.

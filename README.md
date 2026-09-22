@@ -12,7 +12,7 @@ Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukrain
 **How I work with AI**
 
 - Search for existing code before writing new. Second copy gets extracted, but a clear duplicate beats a confusing abstraction.
-- The agent runs linters, type checks, builds and unit tests itself. A failure is a non-zero exit code, not a warning.
+- The agent runs linters, type checks, builds and unit tests itself before committing, skipping what a pure docs or config change doesn't need — no pre-commit hooks required. A failure is a non-zero exit code, not a warning.
 - Missing guardrails get suggested, never installed unprompted. A mistake corrected twice becomes a lint rule, not a note in the prompt.
 - One file, one responsibility. Length alone isn't a reason to split.
 - Design decisions live in short ADRs, so they aren't argued again every session.

@@ -16,7 +16,7 @@ Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukrain
 - **Fast loop** — Edit-loop checks take seconds and stay offline; slow ones go to CI.
 - **Guardrails** — Missing ones are suggested, never installed unprompted, and existing tooling comes first. A mistake that keeps getting fixed by hand becomes a proposed lint rule.
 - **Memory** — Design decisions go in short ADRs so they aren't argued again. Convention docs load only when relevant. README and CLAUDE.md change when architecture or conventions do.
-- **Safety** — No commit, push or deploy without my explicit command; logical commits; no reading outside the project without my say-so.
+- **Commits** — One concern per commit, clear message, relevant checks run first.
 
 ---
 

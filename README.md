@@ -1,7 +1,7 @@
 # Oleksii Sedun
 
 **Senior Automation QA Engineer** · FIRST - Best in Sports  
-Serving in the **13th Operational Brigade "Khartiia"**, National Guard of Ukraine
+Serving in the **2nd Corps of the National Guard of Ukraine "Khartiia"**
 
 ---
 
